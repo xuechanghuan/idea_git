@@ -20,6 +20,7 @@ public class DemoApplicationTests {
         System.out.println("77777777");
         System.out.println("88888888");
         System.out.println("99999999");
+        System.out.println("77777777");
     }
 
 }
